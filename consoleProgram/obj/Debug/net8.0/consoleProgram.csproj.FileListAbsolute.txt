@@ -1,0 +1,14 @@
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/bin/Debug/net8.0/consoleProgram
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/bin/Debug/net8.0/consoleProgram.deps.json
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/bin/Debug/net8.0/consoleProgram.runtimeconfig.json
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/bin/Debug/net8.0/consoleProgram.dll
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/bin/Debug/net8.0/consoleProgram.pdb
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.AssemblyInfoInputs.cache
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.AssemblyInfo.cs
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.csproj.CoreCompileInputs.cache
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.dll
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/refint/consoleProgram.dll
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.pdb
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/consoleProgram.genruntimeconfig.cache
+/home/tumiso/Documents/Assessment - Graduate Software Engineer - Ninety One/consoleProgram/obj/Debug/net8.0/ref/consoleProgram.dll
